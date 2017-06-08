@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:example="http://example.namespace.com" version="1.0">
+  <data xmlns="http://www.lcc.arts.ac.uk/">
+    <AVERAGE>55.3</AVERAGE>
+  </data>
+</root>
